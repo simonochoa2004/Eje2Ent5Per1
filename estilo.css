@@ -1,0 +1,52 @@
+body
+{
+	background-color: #7636D4;
+}
+
+#div
+{
+	position: absolute;
+	top: 28%;
+	left: 40%;
+	width: 20%;
+	height: 20%;
+	background-color: #67EEDA;
+	align-items: center;
+	justify-content: center;
+	border: 10px;
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	font-family: "Roboto", sans-serif;
+
+}
+
+.body{
+font-family: "Roboto", sans-serif;
+background-color: #36D3F0;
+
+}
+
+.form1{
+  padding: 10px;
+  max-width: 400px;
+  background-color: #E7E7E7;
+  margin: 0 auto;
+ 
+}
+
+
+
+.b1 {
+	display: block;
+	background-color: #3674D2;
+	padding: 10px 45px 10px 45px;
+	border: 0;
+	font-size: 1em; 
+	color: 	white;
+  font-family: "Roboto", sans-serif;
+}
+.b1: hover{
+	background-color: #046193;
+}
+
